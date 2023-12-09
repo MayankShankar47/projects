@@ -1,4 +1,4 @@
-<h1 align="center">Aflam v2 - Movie App</h1>
+<h1 align="center">Streamify - Movie App</h1>
 
 <p align="center">A fully responsive react-based website built using The Movie Database (TMDB). This app allows users to browser through both movies and tv shows in various ways.</p>
 
